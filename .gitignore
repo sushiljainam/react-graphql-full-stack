@@ -1,8 +1,1 @@
 node_modules/
-dist/*.map
-dist/*.js
-dist/*.css
-rundb.bat
-this.code-workspace
-docker-compose.yml
-Dockerfile
